@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/dxwebster/NLW2-Proffy/master/readme/logo.png" width="300"></p>
 
 # About ✏️
-Proffy is a online study platform, where it helps to find teachers for your need. This application was developed in Next Level Week #02, a program of @Rocketseat. Using the following technologies. This is my first project with API and SPA. 
+Proffy is a online study platform, where it helps to find teachers for your need. This application was developed in Next Level Week #02 with the purpose to learn some new stacks, a program of @Rocketseat. Using the following technologies. This is my first project with API and SPA. 
 # Design 🎨
 <p align="center"> <img src="https://i.imgur.com/wPPXZrf.jpg" width="600"> <img src="https://i.imgur.com/wo4PXHc.jpg" width="600"></p>
 

@@ -22,7 +22,7 @@ Proffy is a online study platform, where it helps to find teachers for your need
 
 Clone Repo: <br />
 <code>git clone https://github.com/heymands/proffy</code> <br /><br />
-Go to the <strong>web</strong> folder open the terminal, and run: <br /> 
+Go to the <strong>[web]</strong> folder open the terminal, and run: <br /> 
 <code>yarn install</code> <br /><br />
 Start the app:<br /> <code> yarn start </code> <br />
 

@@ -15,8 +15,9 @@ Proffy is a online study platform, where it helps to find teachers for your need
 <strong> » Cors </strong><br />
 <strong> » React Native</strong><br />
 <strong> » Express </strong><br />
-<strong> » HTML5 e CSS3 </strong><br />
+<strong> » HTML5 and CSS3 </strong><br />
 <strong> » Sqlite3 </strong><br />
+<strong> » Expo </strong><br />
 
 # ⚙️  How to Run
 

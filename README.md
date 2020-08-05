@@ -5,7 +5,7 @@ Proffy is a online study platform, where it helps to find teachers for your need
 ## Design 🎨
 <p align="center"> <img src="https://i.imgur.com/wPPXZrf.jpg" width="600"> <img src="https://i.imgur.com/wo4PXHc.jpg" width="600"></p>
 
-<p align="right"> <i>Designer: Tiago Luchtenberg<i></color> </p>
+<p align="right"> <i>Designer: Tiago Luchtenberg</i></color> </p>
   
 ## Technologies
 
@@ -20,8 +20,10 @@ Proffy is a online study platform, where it helps to find teachers for your need
 
 ## ⚙️  How to Run
 
-Clone Repo: <code>git clone https://github.com/heymands/proffy</code> <br />
-Go to the web folder <code>yarn install</code> <br />
-Start: <code> yarn start </code> <br />
+Clone Repo: <br />
+<code>git clone https://github.com/heymands/proffy</code> <br /><br />
+Go to the <strong>web</strong> folder open the terminal, and run: <br /> 
+<code>yarn install</code> <br /><br />
+Start the app:<br /> <code> yarn start </code> <br />
 
   
